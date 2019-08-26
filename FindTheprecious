@@ -1,173 +1,177 @@
 <!DOCTYPE html>
 
 <head>
-  <html lang="en">
-  <title> FindThePrecious</title>
-   <meta charset="UTF-8">
-   <link href="https://fonts.googleapis.com/css?family=Amatic+SC" 
+    <html lang="en">
+    <title> FindThePrecious </title>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC" 
  rel="stylesheet"> 
-   <meta name="author" content="InesBorreill">
-   <meta name="description" content="Ce site a pour but d'aider Sauron à trouver le precieux.">
+    <meta name="author" content="InesBorreill">
+    <meta name="description" content="Ce site a pour but d'aider Sauron à trouver le precieux.">
    
 </head>
 
 <body>
   <header>
-    <h1>
-      FindThePrecious.com
-    </h1>
+      <h1> FindThePrecious.com </h1>
     <nav>
-      <ul>
-
-        <li><a href="#fellows"> Fellows</a></li>
-        <li><a href="#TheRing"> TheRing</a></li>
-        <li><a href="#GetMyReward"> Get my Reward</a></li>
-        <li><a href="#BestHunters"> Best Hunters</a></li>
-        <li><a href="#JoinTheArmy"> Join the Army</a></li>
-        <li><a href="#ContactUs"> Contact us</a></li>
-      </ul>
+       <ul>
+          <li><a href="#fellows"> Fellows</a></li>
+          <li><a href="#thering"> TheRing</a></li>
+          <li><a href="#getmyreward"> Get my Reward</a></li>
+          <li><a href="#besthunters"> Best Hunters</a></li>
+          <li><a href="#joinThearmy"> Join the Army</a></li>
+          <li><a href="#contactus"> Contact us</a></li>
+        </ul>
     </nav>
 
   </header>
-
-  <img src="https://via.placeholder.com/500x140" alt="placeholder rectangle">
-  <h3>Dangerous fellowship tries to destroy the ring</h3>
-  <p>Orcs, globlins, Balrogs, protect your master Sauron !</p>
+         <img src="https://via.placeholder.com/500x140" alt="placeholder rectangle">
+         
+      <h3>Dangerous fellowship tries to destroy the ring</h3>
+          <p>Orcs, globlins, Balrogs, protect your master Sauron !</p>
+          
   <section>
-  <h2 id="fellows">Fellows wanted dead</h2>
-  <p>(or alive if you want to eat them later)
-    <p>
-
-      <button type="button">Most wanted</button>
-      <button type="button">Most dangerous</button>
-      <button type="button">Already captured</button>
+  
+     <h2 id="fellows">Fellows wanted dead</h2>
+         <p>(or alive if you want to eat them later)
+         <p>
+              <button type="button">Most wanted</button>
+              <button type="button">Most dangerous</button>
+              <button type="button">Already captured</button>
       <br>
-      <img src="https://via.placeholder.com/200" alt="placeholder the wizard">
+      
+         <img src="https://via.placeholder.com/200" alt="placeholder the wizard">
    
       <h3>The wizard</h3>
-      <p>Small description</p>
-      <img src="https://via.placeholder.com/200" alt="placeholder hobbit">
+          <p>Small description</p>
+          <img src="https://via.placeholder.com/200" alt="placeholder hobbit">
+          
       <h3>Hobbit #3</h3>
-      <p>Small description</p>
-      <img src="https://via.placeholder.com/200" alt="placeholder yummy dwarf">
+          <p>Small description</p>
+          <img src="https://via.placeholder.com/200" alt="placeholder yummy dwarf">
+          
       <h3>Yummy Dwarf</h3>
-      <p>Small description</p>
-      </section>
+          <p>Small description</p>
+          
+   </section>
 
       <hr>
   
-      <section>
-        <h2 id="reward">I have captured one of them, how do I get my reward?</h2>
+   <section>
+       <h2 id="reward">I have captured one of them, how do I get my reward?</h2>
 
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
           sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat </p>
-        <img src="https://via.placeholder.com/140" alt="placeholder my reward">
-        <button type="button">Contact us</button>
-      </section>
+         <img src="https://via.placeholder.com/140" alt="placeholder my reward">
+         <button type="button">Contact us</button>
+   </section>
 
       <hr>
 
-      <section>
-        <h2 id="hunters">Best hunters</h2>
-        <h3> ElvesKiller22</h3>
+  <section>
+    <h2 id="hunters">Best hunters</h2>
+    <h3> ElvesKiller22</h3>
         <img src="https://via.placeholder.com/70" alt="placeholder elves killer 22">
         <p>2 captures</p>
-        <a href="Profile">Profile</a>
+        <a href="profile">Profile</a>
         <button type="button">like 68K</button>
 
-        <h3> Goblin45</h3>
+    <h3> Goblin45</h3>
         <img src="https://via.placeholder.com/70" alt="placeholder goblin45">
         <p>1 capture</p>
-        <a href="Profile">Profile</a>
+        <a href="profile">Profile</a>
         <button type="button">like 68K</button>
 
-      </section>
+  </section>
 
       <hr>
   
-      <section>
-      <h2 id="ring">About the ring</h2>
-      <h4>Ring capabilities</h4>
-      <p>What can our master do with the ring?</p>
+  <section>
+    <h2 id="ring">About the ring</h2>
+    <h4>Ring capabilities</h4>
+       <p>What can our master do with the ring?</p>
 
       <table>
         <thead>
         <tr>
-          <th>Feature</th>
-          <th>Description</th>
+            <th>Feature</th>
+            <th>Description</th>
         </tr>
-       </thead>
+        </thead>
+        
         <tbody>
         <tr>
-          <td>main</td>
-          <td>One ring to rule them all</td>
+            <td>main</td>
+            <td>One ring to rule them all</td>
+        </tr>
+        
+        <tr>
+            <td>Invisibility</td>
+            <td>You can't see me</td>
         </tr>
         <tr>
-          <td>Invisibility</td>
-          <td>You can't see me</td>
-        </tr>
-        <tr>
-          <td>Power</td>
-          <td>Destroy the world</td>
+            <td>Power</td>
+            <td>Destroy the world</td>
         </tr>
         </tbody>
       </table>
 
       <br>
 
-      <h4>Why the ring is awesome?</h4>
-      <p>My precioooouuuuusssss! Hrk Hrk, we want our precioooooouuuussss !! - Gollum</p>
-      <img src="https://via.placeholder.com/110" alt="placeholder gollum">
+     <h4>Why the ring is awesome?</h4>
+         <p>My precioooouuuuusssss! Hrk Hrk, we want our precioooooouuuussss !! - Gollum</p>
+         <img src="https://via.placeholder.com/110" alt="placeholder gollum">
     </section>
       
       <hr>
 
       <section>
         <h2 id="army">Join Mordor Army, we need you!</h2>
-        <img src="https://via.placeholder.com/140" alt="placeholder recruitment">
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
+         <img src="https://via.placeholder.com/140" alt="placeholder recruitment">
+         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
           sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat </p>
-        <button type="button">More info on SauronRulesThemAll.com</button>
+         <button type="button">More info on SauronRulesThemAll.com</button>
       </section>
 
       <hr>
 
       <section>
         <h2 id="contact">Contact Us</h2>
-        <form action="formcontact">
+          <form action="formcontact" method="POST">
           <div>
-            <label for="email">Email:</label>
-            <input id="email" type="email" placeholder="@" name="user_mail">
+              <label for="email">Email:</label>
+              <input id="email" type="email" placeholder="@" name="user_mail">
           </div>
           <div>
-            <label for="adress">Adress:</label>
-            <input id="adress" type="text" name="user_adress">
+              <label for="adress">Adress:</label>
+              <input id="adress" type="text" name="user_adress">
           </div>
-          <select>
+      <select>
           <option value=" I'v seen one">I have seen one of them</option>
           <option value=" I'v captured one">I have captured one of them</option>
           <option value="I want to join army">I want to join your army</option>
       </select>
           <div>
-      <textarea rows="10" cols="25" name="message" id="message" placeholder="Your message"></textarea>
-<input type="submit" name="submit" value="Send">
+            <textarea rows="10" cols="25" name="message" id="message" placeholder="Your message"></textarea>
+            <input type="submit" name="submit" value="Send">
                       
           </div>
-        <input type="submit" value="Submit" class="submit" />
+             <input type="submit" value="submit" class="submit" />
         </form>
       </section>
       
       <footer>
         <ul>
-          <li><a href="about">About us</a></li>
-          <li><a href="fellows">Fellows</a></li>
-          <li><a href="joinourarmy">Join our army</a></li>
+          <li><a href="about" title="about us">About us</a></li>
+          <li><a href="fellows" title="fellows">Fellows</a></li>
+          <li><a href="joinourarmy" title="join our army">Join our army</a></li>
         </ul>
 
         <ul>
-          <li><a href="FAQ">FAQ</a></li>
-          <li><a href="conditions">Reward conditions</a></li>
-          <li><a href="legal">Legal mentions</a></li>
+          <li><a href="faq" title="FAQ">FAQ</a></li>
+          <li><a href="conditions" title="conditions">Reward conditions</a></li>
+          <li><a href="legal mentions" title="legal mentions">Legal mentions</a></li>
         </ul>
 
         <ul>
