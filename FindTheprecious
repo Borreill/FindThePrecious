@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
+ 
   <title> FindThePrecious</title>
-  <link href="https://fonts.googleapis.com/css?family=Amatic+SC" 
+   <meta charset="UTF-8">
+   <link href="https://fonts.googleapis.com/css?family=Amatic+SC" 
  rel="stylesheet"> 
+   <meta name="author" content="InesBorreill">
+   <meta name="description" content="Ce site a pour but d'aider Sauron à trouver le precieux.">
+   
 </head>
 
 <body>
@@ -27,7 +30,7 @@
 
   </header>
 
-  <img src="https://via.placeholder.com/500x140" alt="placeholder">
+  <img src="https://via.placeholder.com/500x140" alt="placeholder rectangle">
   <h3>Dangerous fellowship tries to destroy the ring</h3>
   <p>Orcs, globlins, Balrogs, protect your master Sauron !</p>
   <section>
@@ -39,15 +42,14 @@
       <button type="button">Most dangerous</button>
       <button type="button">Already captured</button>
       <br>
-      <img src="https://via.placeholder.com/200" alt="placeholder">
+      <img src="https://via.placeholder.com/200" alt="placeholder the wizard">
    
-    
       <h3>The wizard</h3>
       <p>Small description</p>
-      <img src="https://via.placeholder.com/200" alt="placeholder">
+      <img src="https://via.placeholder.com/200" alt="placeholder hobbit">
       <h3>Hobbit #3</h3>
       <p>Small description</p>
-      <img src="https://via.placeholder.com/200" alt="placeholder">
+      <img src="https://via.placeholder.com/200" alt="placeholder yummy dwarf">
       <h3>Yummy Dwarf</h3>
       <p>Small description</p>
       </section>
@@ -59,7 +61,7 @@
 
         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
           sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat </p>
-        <img src="https://via.placeholder.com/140" alt="placeholder">
+        <img src="https://via.placeholder.com/140" alt="placeholder my reward">
         <button type="button">Contact us</button>
       </section>
 
@@ -68,13 +70,13 @@
       <section>
         <h2 id="hunters">Best hunters</h2>
         <h3> ElvesKiller22</h3>
-        <img src="https://via.placeholder.com/70" alt="placeholder">
+        <img src="https://via.placeholder.com/70" alt="placeholder elves killer 22">
         <p>2 captures</p>
         <a href="Profile">Profile</a>
         <button type="button">like 68K</button>
 
         <h3> Goblin45</h3>
-        <img src="https://via.placeholder.com/70" alt="placeholder">
+        <img src="https://via.placeholder.com/70" alt="placeholder goblin45">
         <p>1 capture</p>
         <a href="Profile">Profile</a>
         <button type="button">like 68K</button>
@@ -115,14 +117,14 @@
 
       <h4>Why the ring is awesome?</h4>
       <p>My precioooouuuuusssss! Hrk Hrk, we want our precioooooouuuussss !! - Gollum</p>
-      <img src="https://via.placeholder.com/110" alt="placeholder">
+      <img src="https://via.placeholder.com/110" alt="placeholder gollum">
     </section>
       
       <hr>
 
       <section>
         <h2 id="army">Join Mordor Army, we need you!</h2>
-        <img src="https://via.placeholder.com/140" alt="placeholder">
+        <img src="https://via.placeholder.com/140" alt="placeholder recruitment">
         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo
           sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat </p>
         <button type="button">More info on SauronRulesThemAll.com</button>
@@ -135,11 +137,11 @@
         <form action="formcontact">
           <div>
             <label for="email">Email:</label>
-            <input id="email" type="email" placeholder="@">
+            <input id="email" type="email" placeholder="@" name="user_mail">
           </div>
           <div>
             <label for="adress">Adress:</label>
-            <input id="adress" type="text">
+            <input id="adress" type="text" name="user_adress">
           </div>
           <select>
           <option value=" I'v seen one">I have seen one of them</option>
